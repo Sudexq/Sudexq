@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudenur Tilla</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **React.js and python**
+- 🌱 I’m currently learning **TypeScript, React.js and python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudexq&show_icons=true&locale=en&layout=compact" alt="sudexq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudexq&show_icons=true&locale=en" alt="sudexq" /></p>
+<p>https://www.linkedin.com/in/sudenurtilla/</p>
 
