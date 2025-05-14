@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Sudenur TİLLA</h1>
 <p align="center">
 Junior Computer Engineering Student (Graduating in 2026) <br/>
-Istanbul Kültür University • Erasmus Alumni • TEKNOFEST Finalist
+Istanbul Kültür University • Harvard ALP Alumni • TEKNOFEST Finalist
 </p>
 
 ---
