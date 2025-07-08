@@ -11,7 +11,7 @@ Istanbul Kültür University • Harvard ALP Alumni • TEKNOFEST Finalist
 Hi! I'm Sudenur — a curious mind passionate about building meaningful technology. I love solving real-world problems using code, data, and system-level thinking.
 
 🎓 Senior Computer Engineering Student (Class of 2026)  
-🇨🇿 Studied in Czech Republic via Erasmus, visited 13 European countries  
+🇨🇿 Studied in Czech Republic via Erasmus, visited 19 European countries  
 🇺🇸 Currently developing mobile apps with an international team in the U.S.  
 🚀 Finalist at TEKNOFEST with an AI-powered mobile application  
 
