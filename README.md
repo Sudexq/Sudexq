@@ -1,73 +1,118 @@
-<h1 align="center">👩‍💻 Sudenur TİLLA</h1>
+<h1 align="center">👩‍💻 Sudenur Tilla</h1>
 <p align="center">
-Junior Computer Engineering Student (Graduating in 2026) <br/>
-Istanbul Kültür University • Harvard ALP Alumni • TEKNOFEST Finalist
+Frontend Developer • Computer Engineering Student (B.Sc., 2026) <br/>
+Istanbul Kültür University • Amadeus Intern • Harvard ALP Alumni • TEKNOFEST Finalist
+</p>
+
+<p align="center">
+  <a href="mailto:sudenur.tilla2020@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/sudenurtilla">LinkedIn</a> •
+  <a href="https://github.com/Sudexq">GitHub</a>
 </p>
 
 ---
 
-### 🌟 About Me
+## 🚀 About Me
 
-Hi! I'm Sudenur — a curious mind passionate about building meaningful technology. I love solving real-world problems using code, data, and system-level thinking.
+Motivated Frontend Developer with hands-on experience building production-level web and mobile applications. Previously interned at Amadeus and worked with an international team developing mobile applications using modern frontend technologies.
 
-🎓 Senior Computer Engineering Student (Class of 2026)  
-🇨🇿 Studied in Czech Republic via Erasmus, visited 19 European countries  
-🇺🇸 Currently developing mobile apps with an international team in the U.S.  
-🚀 Finalist at TEKNOFEST with an AI-powered mobile application  
+- 🎓 B.Sc. in Computer Engineering (Expected 2026)  
+- 🌍 Erasmus exchange student in Czech Republic  
+- 🇺🇸 Developed mobile applications with international engineering teams  
+- 🏆 TEKNOFEST Finalist (Top 14 / 4250 teams) with AI-powered mobile app  
 
----
-
-### 🔧 Technical Skills
-
-- **Languages:** C, C++, Python, JavaScript, TypeScript  
-- **Frontend:** ReactJS, React Native, HTML/CSS, Firebase  
-- **Data Science:** NumPy, Pandas, Seaborn, scikit-learn, TensorFlow, Keras  
-- **Embedded Systems:** Raspberry Pi, UART, SPI, Embedded Linux  
-- **Tools:** Git, Figma, Firebase, Linux, Postman, Jira, Trello
+Passionate about frontend engineering, real-time applications, and building scalable software systems.
 
 ---
 
-### 📁 Featured Projects
+## 🛠 Technical Skills
 
-#### 🔹 [OpenCat - Voice-Controlled Robot]
-A quadruped robot controlled via natural language using a mobile app.  
-**Tech Stack:** Python, Flask, React Native, OpenAI API, Raspberry Pi  
-**My Role:** Developed NLP backend and mobile UI
+**Frontend:**  
+Angular, React, React Native, Vue.js, TypeScript, JavaScript, HTML, CSS, SCSS, Tailwind CSS  
 
-#### 🔹 [Equality in STEM - Data Analysis & ML](https://github.com/Sudexq/Equality-in-STEM-A-Data-Analysis-and-Machine-Learning-Project)  
-Analyzed gender equity in STEM fields using data visualization and ML classification.  
-**Tools Used:** Pandas, Seaborn, scikit-learn, Matplotlib
+**Backend & APIs:**  
+Firebase, REST APIs, Node.js (basic)
 
-#### 🔹 [Tea Shop - Full Stack E-commerce App](https://github.com/Sudexq/Tea-Shop)  
-An e-commerce platform built for selling tea products with login, cart, and ordering features.  
-**Technologies:** ReactJS, PHP, MySQL  
-**My Role:** Developed both frontend and backend functionalities
+**Computer Science:**  
+Data Structures, Algorithms, Design Patterns, Object-Oriented Programming  
 
----
+**Tools:**  
+Git, GitHub, Figma, Postman, Jira  
 
-### 🎓 Education & Certificates
-
-- 🎓 B.Sc. in Computer Engineering – Istanbul Kültür University (GPA: 3.09)  
-- 📍 Erasmus at University of Pardubice – Czech Republic (2024) (GPA: 4.00) 
-- 🧠 Aspire Leaders Program – Founded by Harvard Faculty  
-- 📈 W-Code Data Science Bootcamp  
+**Other:**  
+Python, Embedded Systems
 
 ---
 
-### 🌍 My Journey
+## 📌 Featured Projects
 
-> Through Erasmus, I studied abroad and explored 13 European countries.  
-> From train stations with no Wi-Fi to hackathons with international peers — I learned that engineering is not just about code, but about adaptability, empathy, and creating value that matters. 🌱
+### 🤖 AI-Powered Voice-Controlled Robot
+Natural language controlled quadruped robot with mobile application interface.
 
----
-
-### 📬 Let’s Connect
-
-- 📧 sudenur.tilla2020@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sudenurtilla)  
-- 🐱 [GitHub](https://github.com/Sudexq)  
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1D8mCuZIZT8jd7ptu1oAUqGU2xZ40J-F8/view?usp=sharing)
+**Tech Stack:** React Native, Python, Flask, OpenAI API, Raspberry Pi  
+**Contributions:**
+- Developed NLP backend for voice command processing  
+- Built mobile frontend interface  
+- Integrated real-time robot control system  
 
 ---
 
-> "Engineering is not just building systems — it's building purpose-driven solutions that empower people."
+### 📊 Data Analysis & Machine Learning Project
+Analyzed gender equality trends using data science and machine learning.
+
+**Tech Stack:** Python, Pandas, scikit-learn, Matplotlib  
+**Contributions:**
+- Performed data preprocessing and analysis  
+- Built machine learning classification models  
+- Visualized insights using modern data visualization tools  
+
+🔗 https://github.com/Sudexq/Equality-in-STEM-A-Data-Analysis-and-Machine-Learning-Project  
+
+---
+
+### 🛒 Full Stack E-Commerce Application
+Full-featured e-commerce platform with authentication and ordering system.
+
+**Tech Stack:** React, PHP, MySQL  
+**Contributions:**
+- Developed frontend user interface  
+- Implemented backend functionality and database integration  
+
+🔗 https://github.com/Sudexq/Tea-Shop  
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Engineering**  
+Istanbul Kültür University (2022 – 2026)
+
+**Erasmus Exchange Program**  
+University of Pardubice, Czech Republic (2024)
+
+**Aspire Leaders Program (Harvard Faculty Initiative)**  
+Leadership and professional development program  
+
+---
+
+## 🌍 Professional Interests
+
+- Frontend Development  
+- Software Engineering  
+- Mobile Application Development  
+- AI-powered Applications  
+- Scalable Web Systems  
+
+---
+
+## 📬 Contact
+
+📧 [sudenur.tilla2020@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/sudenurtilla]
+🐱 GitHub: [https://github.com/Sudexq] 
+
+---
+
+<p align="center">
+Engineering scalable systems and building impactful software solutions.
+</p>
